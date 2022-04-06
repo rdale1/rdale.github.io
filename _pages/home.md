@@ -20,7 +20,7 @@ redirect_from: /home/
 Proving challenging to keep this updated throughout the pandemic!
 
 ### December ###
-* Our paper detailing [Ten simple rules for creating a scientific web application](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009574) is out! Here we addressed several potential pitfalls and difficulties with developing scientific web apps. You can [read more about my web apps here] (https://iambecomecomputational.com/2021/04/09/scientific-web-apps/). 
+* Our paper detailing [Ten simple rules for creating a scientific web application](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009574) is out! Here we addressed several potential pitfalls and difficulties with developing scientific web apps. You can [read more about my web apps here](https://iambecomecomputational.com/2021/04/09/scientific-web-apps/). 
 
 ### November ###
 * I gave a seminar at the University of Arizona on how modeling helps us understand biological complexity. I was invited to speak by Dr Mosher, and we worked on some collaboration - the results seem interesting so far!
