@@ -5,8 +5,29 @@ excerpt: "Recent Activities"
 author_profile: true
 redirect_from: /home/
 ---
+
+## 2022 ##
+
+### February ###
+* New preprint on some graduate work [integrating mathematical modeling into an introductory biology CURE lab](https://www.biorxiv.org/content/10.1101/2022.01.20.477155v1). 
+* I started beta testing the educational game with some local high school students. Hope to start testing educational objectives soon, and have it available for use!
+
+### January ###
+* I received a travel award to attend PlantBiology2022 conference this year. Looking forward to an in-person conference!
+* I received a Finding Your Inner Modeler travel and training award to support my work with Dr Mosher at the University of Arizona. Looking forward to the 5th year of FYIM this fall in Chicago.
+
 ## 2021 ##
 Proving challenging to keep this updated throughout the pandemic!
+
+### December ###
+* Our paper detailing [Ten simple rules for creating a scientific web application](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009574) is out! Here we addressed several potential pitfalls and difficulties with developing scientific web apps. You can [read more about my web apps here] (https://iambecomecomputational.com/2021/04/09/scientific-web-apps/). 
+
+### November ###
+* I gave a seminar at the University of Arizona on how modeling helps us understand biological complexity. I was invited to speak by Dr Mosher, and we worked on some collaboration - the results seem interesting so far!
+
+### October ###
+* I was able to attend and present a poster on some work at the Gordon Research Conference on Stochastic Physics in Biology. This was my first GRC, and I had a great time. I hadn't met any biophysicists prior to my postdoc (my fellowship mentor is a biophysicist), but I think there's a lot of overlap in my work/interests with both biophysics and math biology!
+
 ### -> May ###
 * Big news - I received an [NSF Postdoctoral Fellowship](https://nsf.gov/awardsearch/showAward?AWD_ID=2109790)! I will be studying the relationship between mathematical modeling parametric variability and phenotypic plasticity. 
 *  New preprint: [Overcoming the challenges to enhancing experimental plant biology with computational modeling](https://osf.io/jfdb9/)! Will be published soon. This was my first time leading a review, and it was both challenging and rewarding to work with so many people at once. Many of the authors are involved in the Modeling and Beyond community too. 
