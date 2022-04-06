@@ -28,6 +28,9 @@ Proving challenging to keep this updated throughout the pandemic!
 ### October ###
 * I was able to attend and present a poster on some work at the Gordon Research Conference on Stochastic Physics in Biology. This was my first GRC, and I had a great time. I hadn't met any biophysicists prior to my postdoc (my fellowship mentor is a biophysicist), but I think there's a lot of overlap in my work/interests with both biophysics and math biology!
 
+### July ###
+* I presented my work on statistical modeling of root distributions at the Society for Mathematical Biology 2021 online meeting. This was a fun project and I hope to share it soon!
+
 ### -> May ###
 * Big news - I received an [NSF Postdoctoral Fellowship](https://nsf.gov/awardsearch/showAward?AWD_ID=2109790)! I will be studying the relationship between mathematical modeling parametric variability and phenotypic plasticity. 
 *  New preprint: [Overcoming the challenges to enhancing experimental plant biology with computational modeling](https://osf.io/jfdb9/)! Will be published soon. This was my first time leading a review, and it was both challenging and rewarding to work with so many people at once. Many of the authors are involved in the Modeling and Beyond community too. 
